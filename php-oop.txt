@@ -1,0 +1,15 @@
+PHP OOP (Object Oriented Programming) :
+Masih PHP juga, sama seperti php procedural yang berguna untuk berkomunikasi dengan database untuk mengambil atau menyimpan data dll.
+
+Perbedaan PHP OOP dengan Procedural :
+    1. PHP Procedural yaitu berurutan, menulis kode program secara berurutan dari atas ke bawah setiap file.
+        1 query ada satu file.
+    2. OOP membuat yang didalamnya bisa menampung data dan fungsi / method.
+        Contohnya : kita buat 1 file bisa dipakai di file lain. kelebiahan ya jika ada perubahan hanya di 1 file saja dipusat ya.
+    
+    3. Kenapa harus OOP ?
+        1. Kebanyakan perusahaan nyari programmer yang ngerti OOP.
+        2. Perusahaan biasanya ngerjain project secara  team. OOP lebih cocok dengan team.
+        3. Kodingan bisa digunakan berkali-kali (reusable)
+        4. dll
+        5. Framework php Contohnya : Laravel, codeignatier,  formatnya menggunakan OOP.

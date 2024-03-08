@@ -1,0 +1,28 @@
+Inheritance yaitu pewarisan atau warisan
+Pewarisan => sesuatu yang diturunkan oleh orang tua(parent) ke anaknya(children).
+Apa aja yang diwarisakan contoh?
+    Warna mata, warna rambut, bentuk rambut dll..
+
+    Inheritance yang ada di class :
+        Parent Class : apa aj yamg diwarisakan?
+            Property dan method.
+        Jadi, Child class bisa mempunyai Property dan Method yang dimiliki parentya yang dimiliki parentnya ditambah bisa juga punya Property dan method Sendiri.
+    
+
+    Contoh :
+        Class Orang = Ini parentnya
+        Class Guru = Ini children ya
+        Class Murid = Ini children ya
+
+    Penting :
+    Inheritance :  di class children ya dapat mengakses class parentnya.
+    Class children : Dapat mempunyai Property mereka sendiri.
+    Inheritance : Dapat me overide dari class parentnya atau mengambil alih dari class parent di class children ya.
+    Keyword Final : Adalah membuat children tidak bisa override di class parentnya.
+
+
+
+    
+
+    
+    

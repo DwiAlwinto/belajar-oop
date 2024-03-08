@@ -1,0 +1,5 @@
+Constructor dan Destructor :
+    ini sama-sama fungsi.
+
+1. Constructor : Adalah fungsi yang berjalan pertama kali ketika Object dibuat (__construct())
+2. Destructor : Adalah fungsi yang berjalan ketika object sudah selsai (__destruct()) atau obejct didalam function di unset() atau dihancurkan.
