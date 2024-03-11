@@ -1,0 +1,5 @@
+Traits Adalah :
+    Digunakan suatu class ingin meng inheritance method/function yang berasal dari 2 atau lebih sumber yang berbeda.
+    untuk membuat function bisa digunakan dengan yang lainya.
+    Karena class tidak bisa Extends 2 class sekaligus maka kita menggunakan Traits.
+    

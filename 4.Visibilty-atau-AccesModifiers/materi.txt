@@ -1,0 +1,9 @@
+Visibilty atau Access Modifier :
+    Adalah Kemampuan mengakses property atau method didalam class.
+    Jenis-jenis Visibilty :
+        1. Public => Adalah bentuk default dan bisa diakses dari mana saja.
+        2. Private => hanya bisa diakses oleh class tersebut.
+        3. Protected => hanya bisa diakses oleh class tersebut dan class turunannya (child class).
+
+    //arti Extends.
+    Extends digunakan dalam pemrograman berorientasi objek untuk membuat pewarisan antar kelas sehingga kelas baru dapat mewarisi properti dan metode dari kelas lain.
